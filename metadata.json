@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI",
+  "description": "Futuristic JARVIS-inspired personal voice assistant with bilingual voice recognition, Gemini AI integration, Android app launcher, and notification announcer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
